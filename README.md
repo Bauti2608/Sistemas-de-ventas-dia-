@@ -1,1 +1,2 @@
 Proyecto grupal
+Proyecto de aplicación web desarrollado utilizando Flask, HTML y una conexión a MySQL. La aplicación proporciona una plataforma dinámica para interactuar con una base de datos MySQL a través de una interfaz web desarrollada con Flask y HTML. Incorpora funcionalidades de enrutamiento, renderizado de plantillas HTML y gestión de solicitudes HTTP mediante Flask, junto con la capacidad de almacenar y recuperar datos utilizando una base de datos MySQL.
